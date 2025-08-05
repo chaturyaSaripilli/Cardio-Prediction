@@ -1,0 +1,4 @@
+Patient Name,Age,Sex,Chest Pain Type,Resting BP,Cholesterol,Fasting Sugar >120,Resting ECG,Max HR,Exercise Angina,Oldpeak,Slope,CA,Thal,Prediction,Confidence
+anil,20,Male,Typical Angina,80,100,No,Normal,60,No,0,Upsloping,0,Normal,Heart Disease,88.18%
+vanitha,25,Male,Typical Angina,80,100,No,Normal,60,No,0,Upsloping,2,Fixed Defect,Heart Disease,94.07%
+malini,20,Male,Typical Angina,80,100,No,Normal,60,No,0,Upsloping,1,Normal,No Heart Disease,88.18%
