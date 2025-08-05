@@ -112,10 +112,10 @@ You can capture and place the following outputs in your GitHub repository:
 
 2. **Web App Interface**  
    ➤ Screenshot of Streamlit form with predictions  
-   ➤ Place in the same `/screenshots/` folder  
+   ➤ Place in the same `/outputs/` folder  
    ➤ Refer to them in your README if needed using:
    ```markdown
-   ![Model Output](screenshots/confusion_matrix_rf.png)
+   ![Model Output](outputs/confusion_matrix_rf.png)
    ```
 
 ---
