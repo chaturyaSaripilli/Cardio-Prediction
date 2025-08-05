@@ -107,7 +107,7 @@ You can capture and place the following outputs in your GitHub repository:
    ➤ Output from model evaluation in both `heart_disease_prediction.py` and notebook  
    ➤ Place them in a new folder:
    ```
-   CardioPredictionProject/screenshots/
+   CardioPredictionProject/outputs/
    ```
 
 2. **Web App Interface**  
